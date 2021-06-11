@@ -1,0 +1,528 @@
+<html>
+<head>
+<title> Clander</title>
+</head>
+<body>
+<h1 align="center" style="color:gray"><font size="34">CALANDER 2021</font></h1>
+<center><table border="1" width="60"></table></center>
+
+<!------------JANUARY--------->
+<tr>
+<td> 
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>JANUARY</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td>31</td>
+</tr>
+
+
+</table>
+
+</td>
+<!------------FEBRUARY--------->
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>FEBRUARY</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td></td><td></td>
+</tr>
+</table>
+<!------------MARCH------------------>
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>MARCH</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td>31</td>
+</tr>
+</table>
+</td>
+<!------------APIRAL--------->
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>APIRAL</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td></td>
+</tr>
+</table>
+<!------------MAY--------->
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>MAY</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td>31</td>
+</tr>
+
+
+</table>
+
+</td>
+<!------------JUNE------------------>
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>JUNE</b></font></th>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td></td><td></td>
+</tr>
+</table>
+<!------------JULY------------------------->
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>JULY</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td>31</td>
+</tr>
+</table>
+</td>
+<!------------AGUST--------->
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>AGUST</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td></td>
+</tr>
+</table>
+<!------------SEPTEMBER--------->
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>SEPTEMBER</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td></td>
+</tr>
+
+
+</table>
+
+</td>
+<!------------OCTOBER--------->
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>OCTOBER</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td>31</td>
+</tr>
+</table>
+<!------------NOVEMBER------------------>
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>NOVEMBER</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td></td>
+</tr>
+</table>
+</td>
+<!------------DECEMBER--------->
+<tr>
+<td>
+<table align="left" cellpadding="4" cellpadding="5">
+<tr bgcolor="black">
+
+<th colspan="7"><font color="white"><b>DECEMBER</b></font></th>
+</tr>
+
+<tr>
+<th style="color:#FF0000">su</th>
+<th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th>
+<th style="color:#FF0000">Sa</th>
+</tr>
+<tr>
+<td style="color:#FF0000"></td>
+<td>1</td><td>2</td><td>3</td><td>4</td><td>5</th>
+<td style="color:#FF0000">6</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">7</td>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</th>
+<td style="color:#FF0000">13</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">14</td>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</th>
+<td style="color:#FF0000">20</td>
+</tr>
+
+<tr>
+<td style="color:#FF0000">21</td>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</th>
+<td style="color:#FF0000">27</td>
+</tr>
+<tr>
+<td style="color:#FF0000">28</td>
+<td>29</td><td>30</td><td>31</td>
+</tr> 
+</table>
+</body>
+</html>
